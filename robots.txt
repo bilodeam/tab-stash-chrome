@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bilodeam.github.io/tab-stash-chrome/sitemap.xml
